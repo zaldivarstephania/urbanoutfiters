@@ -1,0 +1,126 @@
+h1,p{
+	text-align: center;
+}
+
+h1{
+	margin-top: 20px;
+	margin-bottom: 0px;
+}
+
+p{
+	margin-top: 0px;
+}
+
+.nuevo img{
+
+	
+}
+
+.center-block{
+	margin: 0 auto;
+}
+
+.img-responsive{
+	max-width: 100%;
+	display: block;
+}
+
+.bg-tops{
+	background-image: url(../img/IMG_1736.jpg);
+}
+
+.bg-buttoms{
+	background-image:url(../img/IMG_1738.jpg);
+}
+
+.bg-swimsuits{
+	background-image: url(../img/IMG_1737.jpg);
+}
+
+
+.bg-featured{
+	background-image: url(../img/IMG_1746.jpg);
+}
+
+.bg-underwear{
+	background-image: url(../img/IMG_1748.jpg);
+}
+
+.bg-camisetas{
+	background-image: url(../img/IMG_1747.jpg);
+}
+
+
+#tops,
+#buttoms,
+#swimsuits{
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	color: #fff;
+	text-align: center;
+	padding: 25% 0;
+	position: relative;
+}
+
+
+#camisetas,
+#featured,
+#underwear{
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	color: #fff;
+	text-align: center;
+	padding: 25% 0;
+	position: relative;
+}
+
+
+
+#menu .card-header{
+	text-align: center;
+	justify-content: center;
+}
+
+#menu .card-footer{
+	text-align: center;
+	justify-content: center;
+}
+
+.md .card{
+	box-shadow: none;
+}
+
+.md a{
+	color: #767676;
+}
+
+.genero .card-header{
+	text-align: center;
+	justify-content: center;
+}
+
+.genero .card-header spam{
+	border: 2px solid #767676;
+	padding: 10px 20px;
+	margin-bottom: 15px;
+}
+
+.md .nuevo .button{
+	background-color: #000;
+	color: #FFFFFF;
+}
+
+.md .women h4{
+	border: 2px solid #767676;
+	padding: 10px 20px;
+	background-color: #fff;
+	margin: 10px 25%;
+}
+ 
+
+#inspiration{
+	text-align:center;
+	padding-top: 50%;
+}
